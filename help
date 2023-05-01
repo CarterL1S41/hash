@@ -1,0 +1,23 @@
+help            -Shows a list of all valid commands
+
+
+execute         -A command able to run various tasks
+
+                conlog      -A command that repeats whatever you say
+
+                figlet      -A command that turns whatever you say into cool
+                             text
+
+
+passreset       -A command that lets you change your password, if you know your
+                 old one
+
+
+details         -Prints out a detailed list of all the modules currently running
+                 to make this system function
+
+
+logout          -A command that logs you out of the terminal
+
+
+shutdown        -A command that logs you out and shuts down this terminal

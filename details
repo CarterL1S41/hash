@@ -1,0 +1,11 @@
++------------------------------------+
+Version:    1.2.9
+Author:     Carter Long
+License:    ISC
+Dependencies:
+    BCrypt:         5.0.0
+    Figlet:         ^1.5.2
+    FS:             ^0.0.1-security
+    Readline:       ^1.3.0
+    String-Math:    ^1.2.2
++------------------------------------+

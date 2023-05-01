@@ -1,0 +1,9 @@
+{
+    "args": [
+        "sessionlist",
+        "currentsession",
+        "sessionkill",
+        "userlist",
+        "userdelete"
+    ]
+}

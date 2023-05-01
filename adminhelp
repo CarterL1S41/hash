@@ -1,0 +1,13 @@
+currentsession  -Shows the current Session ID
+
+
+sessionlist     -Shows a list of all valid currently running sessions
+
+
+sessionkill     -Kills a session using a Session ID (include .json)
+
+
+userlist        -Shows a list of all valid accounts by username
+
+
+userdelete      -Deletes a user using a username (include .json)
